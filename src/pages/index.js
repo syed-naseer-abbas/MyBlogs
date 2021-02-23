@@ -24,7 +24,7 @@ class IndexPage extends React.Component {
         </h1>
         <p>Welcome to my website.</p>
         <p>
-          We'll talk about Technology and share experiences and knowledge.
+          We'll talk about Technologies and share experiences and knowledge.
         </p>
         <p>Lets Start!</p>
         <Link to="/blog/">
